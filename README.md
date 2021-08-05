@@ -1,4 +1,4 @@
-#Score-keeper Game
+#Scorekeeper Game
 - This is a virtual game of Ping Pong between two players
 
 This game includes:
@@ -8,6 +8,6 @@ This game includes:
 - The game ends, and you then have the option of resetting the game and chosing a new score to play until
 
 This is the Score Keeper Game:
-![alt](https://github.com/jdeschat/score-keeper/blob/master/img/scorekeeper.jpg)
+![alt](https://github.com/jdeschat/score-keeper/blob/master/img/scorekeeper.png)
 
 Published at: https://jdeschat.github.io/score-keeper/
