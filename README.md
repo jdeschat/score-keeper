@@ -1,4 +1,4 @@
-#Scorekeeper Game
+# Scorekeeper Game
 - This is a virtual game of Ping Pong between two players
 
 This game includes:
